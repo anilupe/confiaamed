@@ -1,0 +1,15 @@
+C:\Users\ani_p\Documents\confiamed.forms\confiamed.application\bin\Debug\net7.0\Confiamed.Application.deps.json
+C:\Users\ani_p\Documents\confiamed.forms\confiamed.application\bin\Debug\net7.0\Confiamed.Application.dll
+C:\Users\ani_p\Documents\confiamed.forms\confiamed.application\bin\Debug\net7.0\Confiamed.Application.pdb
+C:\Users\ani_p\Documents\confiamed.forms\confiamed.application\obj\Debug\net7.0\Confiamed.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ani_p\Documents\confiamed.forms\confiamed.application\obj\Debug\net7.0\Confiamed.Application.AssemblyInfoInputs.cache
+C:\Users\ani_p\Documents\confiamed.forms\confiamed.application\obj\Debug\net7.0\Confiamed.Application.AssemblyInfo.cs
+C:\Users\ani_p\Documents\confiamed.forms\confiamed.application\obj\Debug\net7.0\Confiamed.Application.csproj.CoreCompileInputs.cache
+C:\Users\ani_p\Documents\confiamed.forms\confiamed.application\obj\Debug\net7.0\Confiamed.Application.dll
+C:\Users\ani_p\Documents\confiamed.forms\confiamed.application\obj\Debug\net7.0\refint\Confiamed.Application.dll
+C:\Users\ani_p\Documents\confiamed.forms\confiamed.application\obj\Debug\net7.0\Confiamed.Application.pdb
+C:\Users\ani_p\Documents\confiamed.forms\confiamed.application\obj\Debug\net7.0\ref\Confiamed.Application.dll
+C:\Users\ani_p\Documents\confiamed.forms\confiamed.application\bin\Debug\net7.0\Confiamed.Domain.dll
+C:\Users\ani_p\Documents\confiamed.forms\confiamed.application\bin\Debug\net7.0\Confiamed.Domain.pdb
+C:\Users\ani_p\Documents\confiamed.forms\confiamed.application\obj\Debug\net7.0\confiamed.application.csproj.AssemblyReference.cache
+C:\Users\ani_p\Documents\confiamed.forms\confiamed.application\obj\Debug\net7.0\confiamed.application.csproj.CopyComplete

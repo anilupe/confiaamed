@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Confiamed.Forms.props" />
+</Project>

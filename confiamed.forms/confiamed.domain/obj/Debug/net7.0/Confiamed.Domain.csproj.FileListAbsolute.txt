@@ -1,0 +1,12 @@
+C:\Users\ani_p\Documents\confiamed.forms\confiamed.domain\bin\Debug\net7.0\Confiamed.Domain.deps.json
+C:\Users\ani_p\Documents\confiamed.forms\confiamed.domain\bin\Debug\net7.0\Confiamed.Domain.dll
+C:\Users\ani_p\Documents\confiamed.forms\confiamed.domain\bin\Debug\net7.0\Confiamed.Domain.pdb
+C:\Users\ani_p\Documents\confiamed.forms\confiamed.domain\obj\Debug\net7.0\Confiamed.Domain.csproj.AssemblyReference.cache
+C:\Users\ani_p\Documents\confiamed.forms\confiamed.domain\obj\Debug\net7.0\Confiamed.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ani_p\Documents\confiamed.forms\confiamed.domain\obj\Debug\net7.0\Confiamed.Domain.AssemblyInfoInputs.cache
+C:\Users\ani_p\Documents\confiamed.forms\confiamed.domain\obj\Debug\net7.0\Confiamed.Domain.AssemblyInfo.cs
+C:\Users\ani_p\Documents\confiamed.forms\confiamed.domain\obj\Debug\net7.0\Confiamed.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ani_p\Documents\confiamed.forms\confiamed.domain\obj\Debug\net7.0\Confiamed.Domain.dll
+C:\Users\ani_p\Documents\confiamed.forms\confiamed.domain\obj\Debug\net7.0\refint\Confiamed.Domain.dll
+C:\Users\ani_p\Documents\confiamed.forms\confiamed.domain\obj\Debug\net7.0\Confiamed.Domain.pdb
+C:\Users\ani_p\Documents\confiamed.forms\confiamed.domain\obj\Debug\net7.0\ref\Confiamed.Domain.dll
